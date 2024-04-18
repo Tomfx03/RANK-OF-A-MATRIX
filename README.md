@@ -22,7 +22,8 @@ print(rank)
 #RegisterNumber:212223110060
 ```
 ## Output:
-![image](https://github.com/Tomfx03/RANK-OF-A-MATRIX/assets/101335832/3015f458-6c15-43e1-b283-1efe0efa58cc)
+![Screenshot 2024-04-18 102009](https://github.com/Tomfx03/RANK-OF-A-MATRIX/assets/101335832/447b9537-12c8-41da-87be-23f5b65cdc2a)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
